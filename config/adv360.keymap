@@ -89,7 +89,7 @@
 			key-positions = <50 51>;
 			bindings = <&kp RBKT>;
 		};
-	}
+	};
 
 };
 
