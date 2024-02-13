@@ -29,6 +29,7 @@
         #binding-cells = <0>;
         bindings = <&kp RET>;
       };
+      #endif
 
       hm: homerow_mods {
           compatible = "zmk,behavior-hold-tap";
