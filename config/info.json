@@ -1,6 +1,4 @@
 {
-  "id": "adv360",
-  "name": "adv360",
   "layouts": {
     "LAYOUT": {
       "layout": [
@@ -86,6 +84,5 @@
         { "label":   "mod8", "row": 4, "col": 19, "x": 16.75, "y": 4.25, "w": 1.25 }
       ]
     }
-  },
-  "sensors": []
+  }
 }
